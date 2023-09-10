@@ -1,0 +1,14 @@
+#input-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.input-button{
+    padding:14px;
+    margin:8px 25px;
+    border-radius: 23px;
+    color:#0c0e0d;
+    /* background-color: ; */
+}
